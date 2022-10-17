@@ -1,0 +1,45 @@
+body {
+    background-color: #046582;
+}
+
+.menu {
+    list-style-type:none;
+    margin-top: 1cm;
+    font-size: 20px;
+    text-decoration: underline;   list-style-type:none;
+    margin-top: 1cm;
+    font-size: 20px;
+    text-decoration: underline;
+}
+
+.menu a:hover {
+    color: #8CC0DE;
+}
+
+.foto img{
+    width: 400px;
+    margin-top: 1cm;
+    margin-left: 12cm;
+}
+
+h3 {
+    margin-left: 1cm;
+    margin-right: 1cm;
+    color: white;
+    margin-top: 1cm;
+}
+
+h2 {
+    margin-left: 1cm;
+    color: white;
+}
+
+a{
+    color: black;
+    margin-top: 1cm;
+    margin-left: 1cm;
+}
+
+a:hover {
+    color: antiquewhite;
+}
