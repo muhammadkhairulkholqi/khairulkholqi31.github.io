@@ -1,0 +1,33 @@
+body {
+    background-color: #046582;
+}
+
+.menu {
+    list-style-type:none;
+    margin-top: 1cm;
+    font-size: 20px;
+    text-decoration: underline;   list-style-type:none;
+    margin-top: 1cm;
+    font-size: 20px;
+    text-decoration: underline;
+}
+
+.menu a:hover {
+    color: #8CC0DE;
+}
+
+.foto img{
+    width: 400px;
+    margin-top: 1cm;
+    margin-left: 11cm;
+}
+
+h3 {
+    color: white;
+    margin-left: 2cm;
+    margin-right: 2cm;
+}
+
+.menu a {
+    color: black;
+}
